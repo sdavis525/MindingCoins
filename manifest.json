@@ -49,4 +49,4 @@
     "description": "An app that allows users to track their withdrawals as well as deposits. This app used PWA which will allow the user to view this tracker with or without an internet connection.",
     "background_color": "#01579b",
     "theme_color": "#ffffff"
-  }
+}
