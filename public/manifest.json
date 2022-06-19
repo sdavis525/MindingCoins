@@ -1,5 +1,7 @@
-{
-    "icons": [
+{  "name": "Budget-Tracker",
+    "short_name": "Budget",
+    
+  "icons": [
       {
         "src": "public/icons/icon-72x72.png",
         "sizes": "72x72",
@@ -41,9 +43,8 @@
         "type": "image/png"
 }
     ],
-    "name": "Budget Tracker",
-    "short_name": "Money Tracker",
-    "orientation": "portrait",
+  
+    
     "display": "standalone",
     "start_url": "/",
     "description": "An app that allows users to track their withdrawals as well as deposits. This app used PWA which will allow the user to view this tracker with or without an internet connection.",
